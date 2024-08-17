@@ -1,0 +1,13 @@
+tipo:diesel:3000:5.0
+tipo:RCQ:8000:3.0
+tipo:ACD:1000:9.0
+tipo:corriente:2000:8.0
+surtidor:Carlos:diesel:0.0:RCQ:0.0:ACD:0.0:corriente:0.0
+surtidor:Carlos:diesel:0.0:RCQ:0.0:ACD:0.0:corriente:0.0
+surtidor:Carlos:diesel:0.0:RCQ:0.0:ACD:0.0:corriente:0.0
+surtidor:Juan:diesel:0.0:RCQ:0.0:ACD:0.0:corriente:0.0
+empleado:Juanes:0
+empleado:Johan:0
+empleado:Marcos:0
+empleado:Juan:0
+empleado:Carlos:0
